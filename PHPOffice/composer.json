@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "PHPOffice\\App\\": "App"
+    }
+  },
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.23",
+    "ext-json": "*"
+  }
+}
